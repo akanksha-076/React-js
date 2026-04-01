@@ -11,3 +11,11 @@ const Demo=()=>{
 }
 export {Demo}
 ```
+5. LIFE CYCLE METHOD
+- Class components uses life cycle method to perform multiple task.
+- Lfe cycle method has no unnecessary boilerplate code so the application is getting complex and hard to manage
+>Lifecycle methods : mounting ,updating ,unmounting
+- so thats why we shofted to functional component. 
+6. WE cannot re-render normal variable in JSX.
+7. inside onclick or any event just write the function name,no parenthesis
+
