@@ -5,7 +5,7 @@ import Features from './assets/components/Features.jsx'
 import HowItWorks from './assets/components/HowItWorks.jsx'
 import Testimonials from './assets/components/Testimonies.jsx'
 import CTA from './assets/components/CTA.jsx'
-import Footer from './assets/components/Footer.jsx'
+import Footer from './assets/components/Footer.jsx' 
 
 function App() {
   return (
